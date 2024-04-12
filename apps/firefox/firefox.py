@@ -6,15 +6,12 @@ apps = mod.apps
 apps.firefox = "app.name: Firefox"
 apps.firefox = "app.name: Firefox Developer Edition"
 apps.firefox = "app.name: firefox"
-apps.firefox = "app.name: Firefox-esr"
 <<<<<<< HEAD
 =======
 apps.firefox = "app.name: LibreWolf"
 apps.firefox = "app.name: waterfox"
 >>>>>>> d00e42a0cddb5d2cd6ac549a2393ff4860d871bb
 apps.firefox = """
-os: windows
-and app.name: Firefox
 os: windows
 and app.exe: firefox.exe
 """
