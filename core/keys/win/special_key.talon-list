@@ -14,7 +14,7 @@ space: space
 tab: tab
 insert: insert
 wipe: backspace
-delete: backspace
-forward delete: delete
+# delete: backspace
+delete: delete
 menu key: menu
 print screen: printscr
